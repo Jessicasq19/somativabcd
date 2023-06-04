@@ -1,0 +1,2 @@
+LINK DA AZURE: somativabcd1.mysql.database.azure.com
+senha: Somativa1
